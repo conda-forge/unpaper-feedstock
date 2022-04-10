@@ -9,7 +9,7 @@ channel_sources:
 channel_targets:
 - conda-forge main
 ffmpeg:
-- '4.4'
+- '5'
 libxml2:
 - '2.9'
 macos_machine:
